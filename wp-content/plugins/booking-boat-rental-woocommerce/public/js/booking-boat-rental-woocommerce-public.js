@@ -1,0 +1,43 @@
+// (function($) {
+//     'use strict';
+
+    /**
+     * All of the code for your public-facing JavaScript source
+     * should reside in this file.
+     *
+     * Note: It has been assumed you will write jQuery code here, so the
+     * $ function reference has been prepared for usage within the scope
+     * of this function.
+     *
+     * This enables you to define handlers, for when the DOM is ready:
+     *
+     * $(function() {
+     *
+     * });
+     *
+     * When the window is loaded:
+     *
+     * $( window ).load(function() {
+     *
+     * });
+     *
+     * ...and/or other possibilities.
+     *
+     * Ideally, it is not considered best practise to attach more than a
+     * single DOM-ready or window-load handler for a particular page.
+     * Although scripts in the WordPress core, Plugins and Themes may be
+     * practising this, we should strive to set a better example in our own work.
+     */     
+
+// })(jQuery);
+
+jQuery(document).ready(function() {
+     jQuery('.append-birthday-description').each(function(){
+         var item = jQuery(this);
+         var description = item.attr('extra-checkout-birthday-description');
+         jQuery('label[for="billing_birthday"]').append('<div style="color: gray; font-weight:400">'+description+'</div>');
+     });
+	jQuery( document.body ).on( 'applied_coupon_in_checkout removed_coupon_in_checkout', function () {
+		location.reload();
+	} );
+});

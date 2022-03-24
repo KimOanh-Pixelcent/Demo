@@ -1,0 +1,122 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.bbrw-form label {
+    float: left;
+    width: 150px;
+}
+
+.bbrw-form input {
+    width: 50% !important;
+}
+
+.taxonomy-specifications .term-slug-wrap,
+.taxonomy-specifications .term-parent-wrap,
+.taxonomy-specifications .table-view-list #slug,
+.taxonomy-specifications .table-view-list #posts,
+.taxonomy-specifications .table-view-list .column-slug,
+.taxonomy-specifications .table-view-list .column-posts,
+.taxonomy-specifications .table-view-list tfoot,
+.taxonomy-features .term-slug-wrap,
+.taxonomy-features .term-parent-wrap,
+.taxonomy-features .table-view-list #slug,
+.taxonomy-features .table-view-list #description,
+.taxonomy-features .table-view-list #posts,
+.taxonomy-features .table-view-list .column-slug,
+.taxonomy-features .table-view-list .column-posts,
+.taxonomy-features .table-view-list .description,
+.taxonomy-features .table-view-list tfoot,
+.taxonomy-features .term-description-wrap,
+.taxonomy-services .term-slug-wrap,
+.taxonomy-services .term-parent-wrap,
+.taxonomy-services .table-view-list #slug,
+.taxonomy-services .table-view-list #description,
+.taxonomy-services .table-view-list #posts,
+.taxonomy-services .table-view-list .column-slug,
+.taxonomy-services .table-view-list .column-posts,
+.taxonomy-services .table-view-list .description,
+.taxonomy-services .table-view-list tfoot,
+.taxonomy-services .term-description-wrap {
+    display: none;
+}
+
+.taxonomy-specifications table thead th,
+.taxonomy-specifications table thead td,
+.taxonomy-features table thead th,
+.taxonomy-features table thead td,
+.taxonomy-services table thead th,
+.taxonomy-services table thead td {
+    border-bottom: none !important;
+}
+
+#product_settings_data,
+#product_feature_data {
+    padding: 5px 10px 30px 20px;
+}
+
+.options_group-custom {
+    column-count: 3;
+}
+
+.pricing-day-tier-item,
+.pricing-hour-tier-item {
+    max-width: 617px;
+    border-bottom: 1px solid #ddd;
+}
+
+.woocommerce_options_panel .pricing-day-tier-item p.form-field,
+.woocommerce_options_panel .pricing-hour-tier-item p.form-field {
+    padding-right: 0 !important;
+}
+
+.pricing-day-tier-item input,
+.pricing-hour-tier-item input {
+    width: 100% !important;
+}
+
+.pricing-tier-action {
+    margin-top: 20px;
+}
+
+.bbrw_pricing_type_day_field,
+.pricing-day-tier-option,
+.bbrw_pricing_type_hour_field,
+.pricing-hour-tier-option {
+    display: none;
+}
+
+.bbrw_pricing_type_day_field.show-in,
+.pricing-day-tier-option.show-in,
+.bbrw_pricing_type_hour_field.show-in,
+.pricing-hour-tier-option.show-in {
+    display: block;
+}
+
+#menu-posts-master-table ul li:nth-child(2),
+#menu-posts-master-table ul li:nth-child(3) {
+    display: none;
+}
+.price_type_field .wc-radios li{
+	width: 122px;
+    display: inline-block !important;
+}
+.price_type_field legend{
+	display:none;
+}
+.action-pricing{
+    padding-left: 10px;
+    padding-top: 15px;
+}
+.pricing-day-tier-item{
+	position:relative;
+}
+.pricing-day-tier-item .delete-pricing-type{
+	position: absolute;
+    top: 30px;
+    right: -50px;
+}
+.pricing-day-tier-item .delete-pricing-type img{
+	width:20px !important;
+}

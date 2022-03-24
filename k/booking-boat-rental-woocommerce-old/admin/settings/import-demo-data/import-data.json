@@ -1,0 +1,228 @@
+[
+   {
+      "name":"Air conditioning",
+	  "icon":"bi-safe2",
+	  "tax":"features",
+   },
+   {
+      "name":"Anchor",
+	  "icon":"bi-gear",
+	  "tax":"features",
+   },
+   {
+      "name":"Bathroom",
+	  "icon":"bi-droplet-half",
+	  "tax":"features",
+   },
+   {
+      "name":"Bluetooth audio",
+	  "icon":"bi-volume-up",
+	  "tax":"features",
+   },
+   {
+      "name":"Children's life jackets",
+	  "icon":"bi-water",
+	  "tax":"features",
+   },
+   {
+      "name":"Cooler / Ice chest",
+	  "icon":"bi-safe-fill",
+	  "tax":"features",
+   },
+   {
+      "name":"Deck shower",
+	  "icon":"bi-cloud-snow",
+	  "tax":"features",
+   },
+   {
+      "name":"Depth finder",
+	  "icon":"bi-joystick",
+	  "tax":"features",
+   },
+   {
+      "name":"Fish finder",
+	  "icon":"bi-water",
+	  "tax":"features",
+   },
+   {
+      "name":"Floating mat",
+	  "icon":"bi-filter-square",
+	  "tax":"features",
+   },
+   {
+      "name":"GPS",
+	  "icon":"bi-broadcast-pin",
+	  "tax":"features",
+   },
+   {
+      "name":"Radar",
+	  "icon":"bi-vinyl",
+	  "tax":"features",
+   },
+   {
+      "name":"Refrigerator",
+	  "icon":"bi-journal-album",
+	  "tax":"features",
+   },
+   {
+      "name":"Shower",
+	  "icon":"bi-cloud-snow",
+	  "tax":"features",
+   },
+   {
+      "name":"Sonar",
+	  "icon":"bi-gear",
+	  "tax":"features",
+   },
+   {
+      "name":"Swim ladder",
+	  "icon":"bi-bookshelf",
+	  "tax":"features",
+   },{
+      "name":"VHF radio",
+	  "icon":"bi-calendar2-week-fill",
+	  "tax":"features",
+   },
+   {
+      "name":"Alcohol",
+	  "icon":"bi-droplet",
+	  "tax":"services",
+   },
+   {
+      "name":"Fishing",
+	  "icon":"bi-water",
+	  "tax":"services",
+   },
+   {
+      "name":"Glass bottles",
+	  "icon":"bi-file",
+	  "tax":"services",
+   },{
+      "name":"Kids under 12",
+	  "icon":"bi-people",
+	  "tax":"services",
+   },
+   {
+      "name":"Liveaboard",
+	  "icon":"bi-grip-horizontal",
+	  "tax":"services",
+   },
+   {
+      "name":"Pets",
+	  "icon":"bi-piggy-bank",
+	  "tax":"services",
+   },
+   {
+      "name":"Red wine",
+	  "icon":"bi-droplet-fill",
+	  "tax":"services",
+   },{
+      "name":"Shoes",
+	  "icon":"bi-gear",
+	  "tax":"services",
+   },
+   {
+      "name":"Smoking",
+	  "icon":"bi-person-x",
+	  "tax":"services",
+   },
+   {
+      "name":"Swimming",
+	  "icon":"bi-water",
+	  "tax":"services",
+   },
+   {
+      "name":"Bay Boats",
+	  "icon":"",
+	  "tax":"boat_types",
+   },
+   {
+      "name":"Bowrider",
+	  "icon":"",
+	  "tax":"boat_types",
+   },
+   {
+      "name":"Center Consoles",
+	  "icon":"",
+	  "tax":"boat_types",
+   },
+   {
+      "name":"Pontoon Boats",
+	  "icon":"",
+	  "tax":"boat_types",
+   },
+   {
+      "name":"Runabouts",
+	  "icon":"",
+	  "tax":"boat_types",
+   },
+   {
+      "name":"Saltwater Fishing",
+	  "icon":"",
+	  "tax":"boat_types",
+   },
+   {
+      "name":"Ski and Wakeboard Boats",
+	  "icon":"",
+	  "tax":"boat_types",
+   },
+   {
+      "name":"Sports Fishing Boats",
+	  "icon":"",
+	  "tax":"boat_types",
+   },
+   {
+      "name":"Chaparral",
+	  "icon":"",
+	  "tax":"makes",
+   },
+   {
+      "name":"Grady-White",
+	  "icon":"",
+	  "tax":"makes",
+   },
+   {
+      "name":"Premier",
+	  "icon":"",
+	  "tax":"makes",
+   },
+   {
+      "name":"Robalo",
+	  "icon":"",
+	  "tax":"makes",
+   },
+   {
+      "name":"23 SSi OB",
+	  "icon":"",
+	  "tax":"models",
+   },
+   {
+      "name":"246 Cayman SD",
+	  "icon":"",
+	  "tax":"models",
+   },
+   {
+      "name":"250 Grand Majestic",
+	  "icon":"",
+	  "tax":"models",
+   },
+   {
+      "name":"251 Coastal Explorer",
+	  "icon":"",
+	  "tax":"models",
+   },
+   {
+      "name":"Canyon 336",
+	  "icon":"",
+	  "tax":"models",
+   },{
+      "name":"Canyon 456",
+	  "icon":"",
+	  "tax":"models",
+   },
+   {
+      "name":"R360",
+	  "icon":"",
+	  "tax":"models",
+   },   
+]
